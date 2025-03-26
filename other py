@@ -1,0 +1,13 @@
+firstthingy = float(input("whats the first number?"))
+secondthingy = float(input("whats the second number?"))
+symbiliyiyiyiyiyiy = input("what is the symbol?")
+
+if symbiliyiyiyiyiyiy=+
+    answer = firstthingy+secondthingy
+elif symbiliyiyiyiyiyiy=-
+    answer = firstthingy-secondthingy
+elif symbiliyiyiyiyiyiy=*
+    answer = firstthingy*secondthingy
+elif symbiliyiyiyiyiyiy=/
+    answer = firstthingy/secondthingy
+print (f"{answer}")
